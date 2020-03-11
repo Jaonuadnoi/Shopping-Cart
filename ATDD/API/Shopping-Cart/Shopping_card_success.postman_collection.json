@@ -1,0 +1,21 @@
+{
+	"info": {
+		"_postman_id": "1e96ad85-bbfd-4ffb-9ed7-abfb5de0352d",
+		"name": "Shopping_card_success",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Search",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
